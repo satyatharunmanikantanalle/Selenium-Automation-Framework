@@ -1,3 +1,8 @@
 2026-06-10 19:50:25 [main] ERROR BaseClass - This is a error message
 2026-06-10 19:50:25 [main] FATAL BaseClass - This is a fatal message
 2026-06-10 19:50:29 [main] ERROR ActionDriver - Text are not matching:Invalid credentials not equalsInvalid credentials1
+2026-06-11 19:21:29 [main] ERROR BaseClass - This is a error message
+2026-06-11 19:21:29 [main] FATAL BaseClass - This is a fatal message
+2026-06-11 19:21:32 [main] ERROR ActionDriver - Text are not matching:Invalid credentials not equalsInvalid credentials1
+2026-06-11 19:21:43 [main] ERROR BaseClass - This is a error message
+2026-06-11 19:21:43 [main] FATAL BaseClass - This is a fatal message

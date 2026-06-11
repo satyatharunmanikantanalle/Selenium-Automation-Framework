@@ -9,3 +9,31 @@
 2026-06-10 19:50:27 [main] INFO  ActionDriver - Entered Valueadmin
 2026-06-10 19:50:27 [main] INFO  ActionDriver - element is clicked
 2026-06-10 19:50:29 [main] INFO  BaseClass - webDriver instance iis closed
+2026-06-11 19:21:13 [main] INFO  BaseClass - config.properties file loaded
+2026-06-11 19:21:22 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-11 19:21:29 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-11 19:21:29 [main] TRACE BaseClass - this is aTrace message
+2026-06-11 19:21:29 [main] DEBUG BaseClass - this is a debug Message
+2026-06-11 19:21:29 [main] WARN  BaseClass - this is a warning Message
+2026-06-11 19:21:29 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-11 19:21:29 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-11 19:21:30 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-11 19:21:30 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-11 19:21:30 [main] INFO  ActionDriver - element is clicked
+2026-06-11 19:21:32 [main] INFO  BaseClass - webDriver instance iis closed
+2026-06-11 19:21:34 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-11 19:21:43 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-11 19:21:43 [main] TRACE BaseClass - this is aTrace message
+2026-06-11 19:21:43 [main] DEBUG BaseClass - this is a debug Message
+2026-06-11 19:21:43 [main] WARN  BaseClass - this is a warning Message
+2026-06-11 19:21:43 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-11 19:21:43 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-11 19:21:44 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-11 19:21:46 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-11 19:21:46 [main] INFO  ActionDriver - element is clicked
+2026-06-11 19:21:46 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-11 19:21:47 [main] INFO  ActionDriver - clicked an element--->Element with text :Nourhan WepKDUmDRqSELVA KUMAR
+2026-06-11 19:21:47 [main] INFO  ActionDriver - element is clicked
+2026-06-11 19:21:48 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-11 19:21:48 [main] INFO  ActionDriver - element is clicked
+2026-06-11 19:21:51 [main] INFO  BaseClass - webDriver instance iis closed
