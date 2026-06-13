@@ -37,3 +37,182 @@
 2026-06-11 19:21:48 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
 2026-06-11 19:21:48 [main] INFO  ActionDriver - element is clicked
 2026-06-11 19:21:51 [main] INFO  BaseClass - webDriver instance iis closed
+2026-06-13 11:31:49 [main] INFO  BaseClass - config.properties file loaded
+2026-06-13 11:32:09 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:32:09 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:32:09 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:32:09 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - this is aTrace message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - this is a warning Message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized for thread:Thread[TestNG-test-OrangeHRMTest-4,5,main]
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - this is aTrace message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - this is a warning Message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread:Thread[TestNG-test-OrangeHRMTest-1,5,main]
+2026-06-13 11:32:15 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - this is aTrace message
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - this is a warning Message
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread:Thread[TestNG-test-OrangeHRMTest-3,5,main]
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-13 11:32:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:32:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - element is clicked
+2026-06-13 11:32:22 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - this is aTrace message
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - this is a warning Message
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread:Thread[TestNG-test-OrangeHRMTest-2,5,main]
+2026-06-13 11:32:24 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:32:24 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:32:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 11:32:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 11:32:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:32:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - element is clicked
+2026-06-13 11:32:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-13 11:32:29 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - this is aTrace message
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - this is a warning Message
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread:Thread[TestNG-test-OrangeHRMTest-3,5,main]
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - element is clicked
+2026-06-13 11:32:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-13 11:32:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element--->Element with text :manda user
+2026-06-13 11:32:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - element is clicked
+2026-06-13 11:32:34 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-13 11:32:34 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - element is clicked
+2026-06-13 11:32:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:33:17 [main] INFO  BaseClass - config.properties file loaded
+2026-06-13 11:33:19 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:33:27 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:33:28 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 11:33:28 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:33:28 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 11:33:28 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:33:28 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 11:33:28 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:33:29 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:33:58 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:33:58 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 11:33:58 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:33:58 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 11:33:58 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:33:58 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 11:33:58 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:33:59 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:34:11 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:34:11 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 11:34:11 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:34:11 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 11:34:11 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:34:11 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 11:34:12 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 11:34:12 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-13 11:34:12 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:34:12 [main] INFO  ActionDriver - element is clicked
+2026-06-13 11:34:14 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-13 11:34:14 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:34:15 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:34:23 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:34:23 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 11:34:23 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:34:23 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 11:34:23 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:34:23 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 11:34:24 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-13 11:34:24 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 11:34:24 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:34:24 [main] INFO  ActionDriver - element is clicked
+2026-06-13 11:34:26 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-13 11:34:26 [main] INFO  ActionDriver - clicked an element--->Element with text :manda user
+2026-06-13 11:34:26 [main] INFO  ActionDriver - element is clicked
+2026-06-13 11:34:27 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-13 11:34:27 [main] INFO  ActionDriver - element is clicked
+2026-06-13 11:34:30 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 11:34:31 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-13 11:34:41 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 11:34:41 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 11:34:41 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 11:34:41 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 11:34:41 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 11:34:41 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 11:34:41 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 11:34:41 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 11:34:41 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 11:34:41 [main] INFO  ActionDriver - element is clicked
+2026-06-13 11:34:43 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-13 11:34:43 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 13:00:23 [main] INFO  BaseClass - config.properties file loaded
+2026-06-13 13:00:30 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 13:00:39 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 13:00:39 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 13:00:39 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 13:00:39 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 13:00:39 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 13:00:39 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 13:00:39 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 13:00:40 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 13:00:49 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 13:00:49 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 13:00:49 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 13:00:49 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 13:00:49 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 13:00:49 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 13:00:49 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 13:00:50 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 13:00:59 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 13:00:59 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 13:00:59 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 13:00:59 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 13:00:59 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 13:00:59 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 13:00:59 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 13:00:59 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-13 13:01:00 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 13:01:00 [main] INFO  ActionDriver - element is clicked
+2026-06-13 13:01:01 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-13 13:01:01 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 13:01:02 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 13:01:11 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 13:01:11 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 13:01:11 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 13:01:11 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 13:01:11 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 13:01:11 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 13:01:12 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-13 13:01:12 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 13:01:13 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 13:01:13 [main] INFO  ActionDriver - element is clicked
+2026-06-13 13:01:13 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-13 13:01:13 [main] INFO  ActionDriver - clicked an element--->Element with text :Oouumcdnfd Simmons
+2026-06-13 13:01:13 [main] INFO  ActionDriver - element is clicked
+2026-06-13 13:01:15 [main] INFO  ActionDriver - clicked an element--->Element with text :Logout
+2026-06-13 13:01:15 [main] INFO  ActionDriver - element is clicked
+2026-06-13 13:01:17 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 13:01:18 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 13:01:28 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 13:01:28 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 13:01:28 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 13:01:28 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 13:01:28 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 13:01:28 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 13:01:28 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 13:01:28 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 13:01:29 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 13:01:29 [main] INFO  ActionDriver - element is clicked
+2026-06-13 13:01:30 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-13 13:01:30 [main] INFO  BaseClass - webDriver instance is closed

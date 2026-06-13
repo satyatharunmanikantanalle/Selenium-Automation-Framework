@@ -6,3 +6,34 @@
 2026-06-11 19:21:32 [main] ERROR ActionDriver - Text are not matching:Invalid credentials not equalsInvalid credentials1
 2026-06-11 19:21:43 [main] ERROR BaseClass - This is a error message
 2026-06-11 19:21:43 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2026-06-13 11:32:12 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-13 11:32:19 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-13 11:32:21 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Text are not matching:Invalid credentials not equalsInvalid credentials1
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2026-06-13 11:32:23 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-13 11:32:31 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-13 11:33:28 [main] ERROR BaseClass - This is a error message
+2026-06-13 11:33:28 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 11:33:58 [main] ERROR BaseClass - This is a error message
+2026-06-13 11:33:58 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 11:34:11 [main] ERROR BaseClass - This is a error message
+2026-06-13 11:34:11 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 11:34:23 [main] ERROR BaseClass - This is a error message
+2026-06-13 11:34:23 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 11:34:41 [main] ERROR BaseClass - This is a error message
+2026-06-13 11:34:41 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 13:00:39 [main] ERROR BaseClass - This is a error message
+2026-06-13 13:00:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 13:00:49 [main] ERROR BaseClass - This is a error message
+2026-06-13 13:00:49 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 13:00:59 [main] ERROR BaseClass - This is a error message
+2026-06-13 13:00:59 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 13:01:11 [main] ERROR BaseClass - This is a error message
+2026-06-13 13:01:11 [main] FATAL BaseClass - This is a fatal message
+2026-06-13 13:01:28 [main] ERROR BaseClass - This is a error message
+2026-06-13 13:01:28 [main] FATAL BaseClass - This is a fatal message
