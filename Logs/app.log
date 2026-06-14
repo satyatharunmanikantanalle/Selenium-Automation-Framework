@@ -216,3 +216,379 @@
 2026-06-13 13:01:29 [main] INFO  ActionDriver - element is clicked
 2026-06-13 13:01:30 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
 2026-06-13 13:01:30 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:23:32 [main] INFO  BaseClass - config.properties file loaded
+2026-06-13 17:23:34 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:23:39 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:23:39 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:23:39 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:23:39 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:23:39 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:23:39 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:23:39 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:23:40 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:23:46 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:23:46 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:23:46 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:23:46 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:23:46 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:23:46 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:23:46 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:23:47 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:23:53 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:23:53 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:23:53 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:23:53 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:23:53 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:23:53 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:23:54 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 17:23:54 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-13 17:23:55 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:23:55 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-13 17:23:55 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:23:56 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:24:01 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:24:01 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:24:01 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:24:01 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:24:01 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:24:01 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:24:01 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-13 17:24:01 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 17:24:02 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:24:03 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-13 17:24:03 [main] INFO  ActionDriver - clicked an element--->Element with text :mandaa cnedcwefwerfr4rf233435t35
+2026-06-13 17:24:04 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-13 17:24:06 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:24:07 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:24:11 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:24:11 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:24:11 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:24:11 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:24:11 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:24:11 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:24:11 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 17:24:12 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 17:24:13 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:24:13 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-13 17:24:13 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:30:59 [main] INFO  BaseClass - config.properties file loaded
+2026-06-13 17:31:00 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:31:07 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:31:07 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:31:07 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:31:07 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:31:07 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:31:07 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:31:07 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:31:08 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:31:14 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:31:14 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:31:14 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:31:14 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:31:14 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:31:14 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:31:14 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:31:15 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:31:20 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:31:20 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:31:20 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:31:20 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:31:20 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:31:20 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:31:20 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 17:31:20 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-13 17:31:22 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:31:22 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-13 17:31:23 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:31:24 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:31:29 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:31:29 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:31:29 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:31:29 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:31:29 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:31:29 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:31:29 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-13 17:31:29 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 17:31:30 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:31:30 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-13 17:31:31 [main] INFO  ActionDriver - clicked an element--->Element with text :manda user
+2026-06-13 17:31:32 [main] INFO  ActionDriver - clicked an element--->Element with text :Logout
+2026-06-13 17:31:34 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-13 17:31:35 [main] INFO  BaseClass - EdgeDriver Instance is Created
+2026-06-13 17:31:40 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-13 17:31:40 [main] TRACE BaseClass - this is aTrace message
+2026-06-13 17:31:40 [main] DEBUG BaseClass - this is a debug Message
+2026-06-13 17:31:40 [main] WARN  BaseClass - this is a warning Message
+2026-06-13 17:31:40 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-13 17:31:40 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-13 17:31:40 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-13 17:31:40 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-13 17:31:41 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-13 17:31:42 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-13 17:31:42 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 11:55:18 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:21:28 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:22:48 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:25:29 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:37:56 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:39:36 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 12:39:56 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 12:39:56 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 12:39:56 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 12:39:56 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 12:39:56 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 12:39:56 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 12:39:56 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 12:42:23 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:42:25 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 12:42:28 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 12:42:28 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 12:42:28 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 12:42:28 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 12:42:28 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 12:42:28 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 12:42:28 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 12:46:44 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:46:46 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 12:47:42 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 12:47:42 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 12:47:42 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 12:47:42 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 12:47:42 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 12:47:42 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 12:47:42 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 12:49:15 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:49:17 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 12:49:39 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 12:49:39 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 12:49:39 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 12:49:39 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 12:49:39 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 12:49:39 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 12:49:39 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 12:50:04 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 12:50:06 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 12:50:09 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 12:50:09 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 12:50:09 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 12:50:09 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 12:50:09 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 12:50:09 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 12:50:09 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:11:16 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 14:11:38 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:11:50 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:11:50 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:11:50 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:11:50 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:11:50 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:11:50 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:11:50 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:22:43 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 14:22:45 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:25:22 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 14:25:23 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:25:31 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:25:31 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:25:31 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:25:31 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:25:31 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:25:31 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:25:31 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-14 14:25:31 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 14:25:32 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 14:25:33 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-14 14:25:33 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:27:39 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 14:27:40 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:27:52 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:27:52 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:27:52 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:27:52 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:27:52 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:27:52 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:27:52 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:27:53 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:29:49 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:29:49 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:29:49 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:29:49 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:29:49 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:29:49 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:29:49 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:29:50 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:30:01 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:30:01 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:30:01 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:30:01 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:30:01 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:30:01 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:30:01 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 14:30:02 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-14 14:30:02 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 14:30:05 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-14 14:30:05 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:30:06 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:30:28 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:30:28 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:30:28 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:30:28 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:30:28 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:30:28 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:30:28 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-14 14:30:28 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 14:30:28 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 14:30:33 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-14 14:30:33 [main] INFO  ActionDriver - clicked an element--->Element with text :sumit shinde
+2026-06-14 14:30:35 [main] INFO  ActionDriver - clicked an element--->Element with text :Logout
+2026-06-14 14:30:37 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 14:30:38 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 14:31:06 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 14:31:06 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 14:31:06 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 14:31:06 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 14:31:06 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 14:31:06 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 14:31:06 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 14:31:06 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 14:31:06 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 14:31:09 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-14 14:31:09 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:34:56 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 15:35:24 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:35:44 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:35:44 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:35:44 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:35:44 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:35:44 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:35:44 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:35:45 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:35:46 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:36:06 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:36:06 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:36:06 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:36:06 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:36:06 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:36:06 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:36:07 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:36:08 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:36:33 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:36:33 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:36:33 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:36:33 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:36:33 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:36:33 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:36:34 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :username
+2026-06-14 15:36:35 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 15:36:35 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :password
+2026-06-14 15:36:35 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-14 15:36:35 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Login
+2026-06-14 15:36:35 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:36:38 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Invalid credentials
+2026-06-14 15:36:38 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-14 15:36:38 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:36:40 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:36:59 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:36:59 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:36:59 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:36:59 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:36:59 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:36:59 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:36:59 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :username
+2026-06-14 15:36:59 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-14 15:37:00 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :password
+2026-06-14 15:37:00 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 15:37:00 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Login
+2026-06-14 15:37:00 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:37:04 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Admin
+2026-06-14 15:37:04 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-14 15:37:04 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :manda user
+2026-06-14 15:37:05 [main] INFO  ActionDriver - clicked an element--->Element with text :manda user
+2026-06-14 15:37:05 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Logout
+2026-06-14 15:37:11 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-14 15:37:14 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:37:15 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:38:03 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:38:03 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:38:03 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:38:03 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:38:03 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:38:03 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:38:03 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :username
+2026-06-14 15:38:04 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 15:38:04 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with name :password
+2026-06-14 15:38:04 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 15:38:05 [main] WARN  ActionDriver - Filed to applied the border to an elementElement with text :Login
+2026-06-14 15:38:05 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:38:07 [main] WARN  ActionDriver - Filed to applied the border to an elementUnable to describe the element
+2026-06-14 15:38:07 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-14 15:38:09 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:38:31 [main] INFO  BaseClass - config.properties file loaded
+2026-06-14 15:38:34 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:38:56 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:38:56 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:38:56 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:38:56 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:38:56 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:38:56 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:38:56 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:38:57 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:39:26 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:39:26 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:39:26 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:39:26 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:39:26 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:39:26 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:39:27 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:39:28 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:39:51 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:39:51 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:39:51 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:39:51 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:39:51 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :username
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :password
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Entered text onElement with name :password admin
+2026-06-14 15:39:51 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :Login
+2026-06-14 15:39:51 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:39:56 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :Invalid credentials
+2026-06-14 15:39:56 [main] INFO  ActionDriver - Text are matching:Invalid credentialsequalsInvalid credentials
+2026-06-14 15:39:56 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:39:57 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:40:20 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:40:20 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:40:20 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:40:20 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:40:20 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:40:20 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:40:20 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :username
+2026-06-14 15:40:21 [main] INFO  ActionDriver - Entered text onElement with name :username Admin
+2026-06-14 15:40:21 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :password
+2026-06-14 15:40:21 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 15:40:21 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :Login
+2026-06-14 15:40:21 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:40:24 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :Admin
+2026-06-14 15:40:24 [main] INFO  ActionDriver - Element is Displayed: Element with text :Admin
+2026-06-14 15:40:25 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :manda user
+2026-06-14 15:40:25 [main] INFO  ActionDriver - clicked an element--->Element with text :manda user
+2026-06-14 15:40:25 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with classname :oxd-userdropdown-link
+2026-06-14 15:40:27 [main] INFO  ActionDriver - clicked an element--->Element with classname :oxd-userdropdown-link
+2026-06-14 15:40:29 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-14 15:40:30 [main] INFO  BaseClass - ChromeDriver Instance is Created
+2026-06-14 15:41:57 [main] INFO  BaseClass - WebDriver Initialized and Browser maximized
+2026-06-14 15:41:57 [main] TRACE BaseClass - this is aTrace message
+2026-06-14 15:41:57 [main] DEBUG BaseClass - this is a debug Message
+2026-06-14 15:41:57 [main] WARN  BaseClass - this is a warning Message
+2026-06-14 15:41:57 [main] INFO  ActionDriver - Webdriver instance is created
+2026-06-14 15:41:57 [main] INFO  BaseClass - ActionDriver initialized for thread:Thread[main,5,main]
+2026-06-14 15:41:58 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :username
+2026-06-14 15:41:58 [main] INFO  ActionDriver - Entered text onElement with name :username admin
+2026-06-14 15:41:58 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with name :password
+2026-06-14 15:41:58 [main] INFO  ActionDriver - Entered text onElement with name :password admin123
+2026-06-14 15:41:58 [main] INFO  ActionDriver - Applied the border with colourgreento elementElement with text :Login
+2026-06-14 15:41:58 [main] INFO  ActionDriver - clicked an element--->Element with text :Login
+2026-06-14 15:42:05 [main] INFO  ActionDriver - Applied the border with colourgreento elementUnable to describe the element
+2026-06-14 15:42:05 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
+2026-06-14 15:42:07 [main] INFO  BaseClass - webDriver instance is closed

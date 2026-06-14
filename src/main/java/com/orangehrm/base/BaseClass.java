@@ -17,6 +17,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 
 import com.orangehrm.actiondriver.ActionDriver;
+import com.orangehrm.utilities.ExtentManager;
 import com.orangehrm.utilities.LoggerManager;
 
 public class BaseClass {
@@ -37,6 +38,9 @@ public class BaseClass {
         new FileInputStream("src/main/resources/config.properties");
         prop.load(fis);
         Logger.info("config.properties file loaded");
+        
+        //start the Extent Report
+        //ExtentManager.getReporter(); //--This has been implemented in iTestlistener
     }
     @BeforeMethod
     public synchronized void setup() throws IOException {
@@ -67,16 +71,19 @@ public class BaseClass {
         if (browser.equalsIgnoreCase("chrome")) {
             //driver = new ChromeDriver();
         	driver.set(new ChromeDriver());  //new changes as per thread
+        	ExtentManager.registerDriver(getDriver());
             Logger.info("ChromeDriver Instance is Created");
         }
         else if (browser.equalsIgnoreCase("firefox")) {
             //driver = new FirefoxDriver();
         	driver.set(new FirefoxDriver());
+        	ExtentManager.registerDriver(getDriver());
             Logger.info("FireFoxDriver Instance is Created");
         }
         else if (browser.equalsIgnoreCase("edge")) {
             //driver = new EdgeDriver();
         	driver.set(new EdgeDriver());
+        	ExtentManager.registerDriver(getDriver());
             Logger.info("EdgeDriver Instance is Created");
         }
         else {
@@ -113,6 +120,7 @@ public class BaseClass {
         actionDriver.remove();
        // driver= null;
         //actionDriver = null;
+        //ExtentManager.endTest(); //--This has been implemented in TestListener
     }
     
     //getter method for prop

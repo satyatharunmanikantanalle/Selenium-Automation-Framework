@@ -6,9 +6,9 @@
       <class name="com.OrangeHRM.test.LoginPageTest">
         <methods>
           <include name="setup"/>
+          <include name="verifyValidLoginTest"/>
           <include name="teardown"/>
           <include name="loadconfig"/>
-          <include name="inValidLoginTest"/>
           <include name="setupPages"/>
         </methods>
       </class> <!-- com.OrangeHRM.test.LoginPageTest -->

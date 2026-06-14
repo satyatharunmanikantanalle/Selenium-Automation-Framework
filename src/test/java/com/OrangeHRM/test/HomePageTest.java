@@ -7,6 +7,7 @@ import org.testng.annotations.Test;
 import com.orangehrm.base.BaseClass;
 import com.orangehrm.pages.HomePage;
 import com.orangehrm.pages.LoginPage;
+import com.orangehrm.utilities.ExtentManager;
 
 public class HomePageTest  extends BaseClass{
 	private LoginPage loginPage;
@@ -19,8 +20,13 @@ public class HomePageTest  extends BaseClass{
 	
 	@Test
 	public void verfiyOrangeHRMLogo() {
+		//ExtentManager.startTest("Homepage verify logo Test");This has been implemented in TestListener
+		ExtentManager.logStep("Navigating to Login Page entering username and password");
 		loginPage.login("admin", "admin123");
+		ExtentManager.logStep("Verifying Logo is visible or not");
 		Assert.assertTrue(homePage.verifyOrangeHRMlogo(),"Logo is not visble");
+		ExtentManager.logStep("validation successfull");
+		ExtentManager.logStep("Logged out successfully");
 	}
 
 }
