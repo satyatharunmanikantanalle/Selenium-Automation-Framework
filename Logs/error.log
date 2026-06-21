@@ -101,3 +101,326 @@
 2026-06-14 15:40:20 [main] FATAL BaseClass - This is a fatal message
 2026-06-14 15:41:57 [main] ERROR BaseClass - This is a error message
 2026-06-14 15:41:57 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:33:39 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:33:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:33:48 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:33:48 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:34:18 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:34:18 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:34:32 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:34:32 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:35:05 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:35:26 [main] ERROR ActionDriver - element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin'], but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}.
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:35:36 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:35:46 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:35:56 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:36:26 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:36:36 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:36:36 [main] ERROR ActionDriver - Element is not visibleno such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d171910c803911b3dbf816a5241e4ac8, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53441}, goog:processID: 29456, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53441/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d171910c803911b3dbf816a5241e4ac8
+2026-06-21 14:36:47 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:36:47 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:37:09 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:37:30 [main] ERROR ActionDriver - element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img, but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}.
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:37:40 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:37:50 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:38:00 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:38:30 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:38:40 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:38:40 [main] ERROR ActionDriver - Element is not visibleno such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f2bae843137ad9fe3d4bd9641cf0caab, findElement {value=//div[@class='oxd-brand-banner']//img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62846}, goog:processID: 19896, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62846/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f2bae843137ad9fe3d4bd9641cf0caab
+2026-06-21 14:52:09 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:52:09 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:52:18 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:52:18 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:52:32 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:52:32 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:52:53 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:52:53 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:53:13 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:53:34 [main] ERROR ActionDriver - element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}.
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:53:44 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:53:54 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:54:04 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:54:34 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:54:44 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:54:44 [main] ERROR ActionDriver - Element is not visibleno such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4a0245b425550e0f23d6593454ab4ba, findElement {value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54904}, goog:processID: 4612, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54904/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4a0245b425550e0f23d6593454ab4ba
+2026-06-21 14:54:56 [main] ERROR BaseClass - This is a error message
+2026-06-21 14:54:56 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 14:55:17 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:55:37 [main] ERROR ActionDriver - element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: /html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, but... org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}.
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:55:47 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:55:57 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:56:07 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:56:38 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:56:48 [main] ERROR ActionDriver - Unable to describe the elementno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 14:56:48 [main] ERROR ActionDriver - Element is not visibleno such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c44a1def2f0ea027cb9eabf57e6b63ca, findElement {value=/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61713}, goog:processID: 19608, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61713/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c44a1def2f0ea027cb9eabf57e6b63ca
+2026-06-21 15:02:26 [main] ERROR BaseClass - This is a error message
+2026-06-21 15:02:26 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 15:02:33 [main] ERROR ActionDriver - unable to compare text:Cannot invoke "com.aventstack.extentreports.ExtentTest.pass(String)" because the return value of "com.orangehrm.utilities.ExtentManager.getTest()" is null
+2026-06-21 15:02:37 [main] ERROR BaseClass - This is a error message
+2026-06-21 15:02:37 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:28:57 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:28:57 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:34:36 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:34:36 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:35:54 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:35:54 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:36:31 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:36:31 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:37:48 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:37:48 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:38:16 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:38:16 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:38:39 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:38:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:39:12 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:39:12 [main] FATAL BaseClass - This is a fatal message
+2026-06-21 19:39:49 [main] ERROR BaseClass - This is a error message
+2026-06-21 19:39:49 [main] FATAL BaseClass - This is a fatal message

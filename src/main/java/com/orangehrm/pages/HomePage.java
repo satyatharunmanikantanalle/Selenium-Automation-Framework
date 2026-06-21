@@ -9,10 +9,10 @@ import com.orangehrm.base.BaseClass;
      public class HomePage {
 		private ActionDriver actionDriver;
 		// Define locators using By class
-		private By adminTab = By.xpath("//span[text()='Admin']");
+		private By adminTab = By.xpath("//*[@id=\"app\"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span"); //span[text()='Admin']
 		private By userIDButton = By.className("oxd-userdropdown-name");
 		private By logoutButton = By.xpath("//a[text()='Logout']");
-		private By orangeHRMlogo = By.xpath("//div[@class='oxd-brand-banner']//img");
+		private By orangeHRMlogo = By.xpath("/html/body/div/div[1]/div[1]/aside/nav/div[1]/a/div[2]/img"); ////div[@class='oxd-brand-banner']//img
 		
 		/*//Initialize the ActionDriver object by passing WebDriver instance
 		public HomePage(WebDriver driver) {
