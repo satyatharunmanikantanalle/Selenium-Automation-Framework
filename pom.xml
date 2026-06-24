@@ -100,6 +100,12 @@
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.3.0</version>
+          <configuration>
+        <suiteXmlFiles>
+            <!-- Specify the location of your testng.xml file -->
+            <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+        </suiteXmlFiles>
+    </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
