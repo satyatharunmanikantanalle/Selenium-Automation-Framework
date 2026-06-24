@@ -904,3 +904,561 @@
 2026-06-21 19:39:53 [main] INFO  ActionDriver - Applied the border with colourgreento elementUnable to describe the element
 2026-06-21 19:39:53 [main] INFO  ActionDriver - Element is Displayed: Unable to describe the element
 2026-06-21 19:39:55 [main] INFO  BaseClass - webDriver instance is closed
+2026-06-24 15:15:59 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 15:18:06 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 15:20:07 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:17:43 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:34:19 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:34:33 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:34:56 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:40:18 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:40:29 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:40:36 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:40:36 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:40:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:40:39 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:40:55 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 33
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:40:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:40:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:40:59 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-24 18:40:59 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-24 18:40:59 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:41:00 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:41:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:41:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:41:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:41:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:41:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:41:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:42:27 [TestNG-test-OrangeHRMTest-4] WARN  ActionDriver - Failed to apply the border to an element: Unable to describe element due to error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f89c8599e9c86d0d01c53303944bd5fe, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59087}, goog:processID: 26168, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59087/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f89c8599e9c86d0d01c53303944bd5fe
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f89c8599e9c86d0d01c53303944bd5fe, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59087}, goog:processID: 26168, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59087/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f89c8599e9c86d0d01c53303944bd5fe
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:224)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:421)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:415)
+	at com.orangehrm.actiondriver.ActionDriver.applyBorder(ActionDriver.java:233)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:119)
+	at com.orangehrm.pages.HomePage.verifyOrangeHRMlogo(HomePage.java:41)
+	at com.orangehrm.test.HomePageTest.verifyOrangeHRMLogo(HomePageTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-24 18:42:34 [TestNG-test-OrangeHRMTest-3] WARN  ActionDriver - Failed to apply the border to an element: Unable to describe element due to error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4d4aa33eb38fb5e979a13a9f95b066f, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63268}, goog:processID: 29844, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63268/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f4d4aa33eb38fb5e979a13a9f95b066f
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4d4aa33eb38fb5e979a13a9f95b066f, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63268}, goog:processID: 29844, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63268/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f4d4aa33eb38fb5e979a13a9f95b066f
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:224)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:421)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:415)
+	at com.orangehrm.actiondriver.ActionDriver.applyBorder(ActionDriver.java:233)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:119)
+	at com.orangehrm.pages.HomePage.isAdminTabVisible(HomePage.java:37)
+	at com.orangehrm.test.LoginPageTest.verifyValidLoginTest(LoginPageTest.java:32)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-24 18:42:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Unable to describe element due to error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f89c8599e9c86d0d01c53303944bd5fe, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59087}, goog:processID: 26168, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59087/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f89c8599e9c86d0d01c53303944bd5fe
+2026-06-24 18:43:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Unable to describe element due to error: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Admin']"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4d4aa33eb38fb5e979a13a9f95b066f, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63268}, goog:processID: 29844, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63268/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f4d4aa33eb38fb5e979a13a9f95b066f
+2026-06-24 18:45:27 [TestNG-test-OrangeHRMTest-4] WARN  ActionDriver - Failed to apply the border to an element: Unable to describe element due to error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f89c8599e9c86d0d01c53303944bd5fe, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59087}, goog:processID: 26168, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59087/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f89c8599e9c86d0d01c53303944bd5fe
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']//img"}
+  (Session info: chrome=149.0.7827.114)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f89c8599e9c86d0d01c53303944bd5fe, findElement {using=xpath, value=//div[@class='oxd-brand-banner']//img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59087}, goog:processID: 26168, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59087/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f89c8599e9c86d0d01c53303944bd5fe
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:224)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:173)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:421)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:415)
+	at com.orangehrm.actiondriver.ActionDriver.applyBorder(ActionDriver.java:233)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:125)
+	at com.orangehrm.pages.HomePage.verifyOrangeHRMlogo(HomePage.java:41)
+	at com.orangehrm.test.HomePageTest.verifyOrangeHRMLogo(HomePageTest.java:30)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-24 18:48:43 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:48:45 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:48:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:48:45 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:48:45 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 38
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:48:48 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:48:49 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:48:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-24 18:48:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-24 18:48:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:48:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:48:54 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:48:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:48:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:48:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:48:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:49:56 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:49:58 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:49:58 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:49:58 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:49:59 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 38
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:50:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:50:02 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:50:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-24 18:50:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-24 18:50:04 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:50:04 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-24 18:50:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:50:08 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:50:08 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:50:08 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:52:15 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:52:17 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:52:17 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:52:17 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:52:17 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 30
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 31
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 33
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 32
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:52:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:52:21 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:52:22 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-24 18:52:22 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-24 18:52:22 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:52:23 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 32
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:52:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:52:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:52:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element with text: Admin
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-24 18:52:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-24 18:52:29 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-24 18:52:32 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-24 18:52:32 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:52:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element located using: By.xpath: //a[text()='Logout']
+2026-06-24 18:52:35 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:53:46 [main] INFO  BaseClass - config.properties file loaded
+2026-06-24 18:53:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:53:48 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:53:48 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:53:48 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 33
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:53:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:53:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-24 18:53:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-24 18:53:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:53:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:53:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:53:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:54:22 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:54:22 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:54:22 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:54:23 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:54:25 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:54:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:54:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:54:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:54:27 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:54:28 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:54:30 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:54:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:54:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:54:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:54:57 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:54:57 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:55:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:55:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:55:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:55:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:55:02 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-24 18:55:05 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-24 18:55:31 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:55:31 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-24 18:55:31 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-24 18:55:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:55:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-24 18:55:36 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.

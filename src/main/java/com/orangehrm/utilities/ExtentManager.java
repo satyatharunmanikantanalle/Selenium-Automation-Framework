@@ -45,13 +45,10 @@ public class ExtentManager {
 	}
 
 	// Start the Test
-	/*public synchronized static ExtentTest startTest(String testName) {
+	public synchronized static ExtentTest startTest(String testName) {
 		ExtentTest extentTest = getReporter().createTest(testName);
 		test.set(extentTest);
-		return extentTest; */  //new fix
-	public static void startTest(String testName) {
-	    ExtentTest extentTest = extent.createTest(testName);
-	    test.set(extentTest);
+		return extentTest;
 	}
 	
 	//End a Test
@@ -75,16 +72,9 @@ public class ExtentManager {
 		}
 	}
 	
-	//Log a step new fix
-	/*public static void logStep(String logMessage) {
+	//Log a step
+	public static void logStep(String logMessage) {
 		getTest().info(logMessage);
-	}*/
-	public static void logStep(String message) {
-	    if(getTest() != null) {
-	        getTest().info(message);
-	    } else {
-	        System.out.println("ExtentTest is NULL");
-	    }
 	}
 	
 	//Log a step validation with screenshot
