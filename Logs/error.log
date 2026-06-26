@@ -621,3 +621,442 @@ System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.v
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54114}, goog:processID: 33492, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54114/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: dea33cd7cc9d6e12f27658d3f4acdf69
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 06:58:22 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65167}, goog:processID: 26644, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65167/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f8e750989d7c4401f085f35bf8c47f6
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 06:58:28 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52280}, goog:processID: 8048, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52280/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75064c7faa00f7cbf418e5197ddcfd79
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 06:58:56 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55391}, goog:processID: 35824, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55391/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f75d19ade8d4a192382b1cafbf3bdd9f
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 06:59:02 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64236}, goog:processID: 23156, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64236/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cbf2a03216be306cf4d4418914fe6b7f
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 06:59:30 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56803}, goog:processID: 25352, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56803/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ef9ebd5f40eac3ebfff53a3da161f99
+2026-06-26 06:59:37 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.44.0', revision: 'da2039b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53041}, goog:processID: 26916, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53041/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29445168e794add01202969068c0cfd8
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:08:21 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60985}, goog:processID: 31944, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60985/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fdff2343de4558e5215030ca810d623
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:08:26 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64573}, goog:processID: 3228, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64573/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd32cb5a9f2243790161b937d38766cc
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:08:55 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65086}, goog:processID: 13780, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65086/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f4187aa7ac0d5b1b3adec62ac3501e4
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:09:00 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53551}, goog:processID: 8004, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53551/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8ad1ffb2b4a8eb6b94d2acb5b949e34f
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:09:30 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54040}, goog:processID: 27788, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54040/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a90d34a98a6c99a45bacd2fda9c694ff
+2026-06-26 07:09:35 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not visible:Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 30 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50015}, goog:processID: 28016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50015/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 55d98160e0fe0747cccd59749015891a
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - This is a error message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - This is a error message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:48 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63422}, goog:processID: 33120, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63422/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5822bcb205fd580641125afaf8dd74a3
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.verifyOrangeHRMlogo(HomePage.java:41)
+	at com.orangehrm.test.HomePageTest.verifyOrangeHRMLogo(HomePageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:34:53 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63916}, goog:processID: 20128, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63916/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 426cef200876eeebc9fccdc7ab4f1944
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.isAdminTabVisible(HomePage.java:37)
+	at com.orangehrm.test.LoginPageTest.verifyValidLoginTest(LoginPageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:35:12 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64093}, goog:processID: 11188, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64093/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd18b9ccd1568a7f0d9992bbcebc920b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.verifyOrangeHRMlogo(HomePage.java:41)
+	at com.orangehrm.test.HomePageTest.verifyOrangeHRMLogo(HomePageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] ERROR BaseClass - This is a error message
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] FATAL BaseClass - This is a fatal message
+2026-06-26 07:35:17 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54331}, goog:processID: 39064, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54331/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e1ae963dafb4166430ec926731be2a7
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.isAdminTabVisible(HomePage.java:37)
+	at com.orangehrm.test.LoginPageTest.verifyValidLoginTest(LoginPageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] ERROR BaseClass - This is a error message
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] FATAL BaseClass - This is a fatal message
+2026-06-26 07:35:37 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //div[@class='oxd-brand-banner']//img
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49921}, goog:processID: 8552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49921/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f3aabda396df944fbbfb7e9a7a045359
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.verifyOrangeHRMlogo(HomePage.java:41)
+	at com.orangehrm.test.HomePageTest.verifyOrangeHRMLogo(HomePageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:35:41 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Element is not displayed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element found by By.xpath: //span[text()='Admin']
+(tried for 20 seconds with 500 milliseconds interval)
+Build info: version: '4.45.0', revision: 'cd6a3cd cd6a3cdfca6970f62e5bc8344109d0fe0e2af05e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 149.0.7827.114, chrome: {chromedriverVersion: 149.0.7827.155 (07b52360cc1..., userDataDir: C:\Users\satya\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53860}, goog:processID: 28580, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53860/devtoo..., se:cdpVersion: 149.0.7827.114, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ddf7332d409b73c4c034f323b00fa79f
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:85)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:234)
+	at com.orangehrm.actiondriver.ActionDriver.waitForElementToBeVisible(ActionDriver.java:220)
+	at com.orangehrm.actiondriver.ActionDriver.isDisplayed(ActionDriver.java:167)
+	at com.orangehrm.pages.HomePage.isAdminTabVisible(HomePage.java:37)
+	at com.orangehrm.test.LoginPageTest.verifyValidLoginTest(LoginPageTest.java:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:76)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.testng.internal.thread.graph.TestNGFutureTask.run(TestNGFutureTask.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2026-06-26 07:47:29 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:47:29 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:47:33 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:47:33 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:47:37 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:47:37 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:47:42 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:47:42 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:47:50 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:47:50 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:49:46 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:49:46 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:49:49 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:49:49 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:49:54 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:49:54 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:49:59 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:49:59 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:50:07 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:50:07 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:50:17 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:50:17 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:50:25 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:50:25 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:50:25 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:50:29 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:50:29 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:50:35 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:50:35 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:50:35 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:50:39 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:50:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:50:46 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:50:46 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:50:46 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:54:31 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:54:31 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:54:35 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:54:35 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:54:39 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:54:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:54:44 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:54:44 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:54:52 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:54:52 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:55:02 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:55:02 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:55:09 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:55:09 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:55:10 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:55:13 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:55:13 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:55:20 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:55:20 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:55:20 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:55:24 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:55:24 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:55:30 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:55:30 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:55:31 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:56:05 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:05 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:09 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:09 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:13 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:13 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:18 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:18 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:27 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:27 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:39 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:39 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:46 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:56:46 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:56:46 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:56:50 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:56:50 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:56:58 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:56:58 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:56:59 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 07:57:02 [main] ERROR BaseClass - This is a error message
+2026-06-26 07:57:02 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 07:57:10 [main] ERROR DBConnection - Error while establishing the DB connection
+2026-06-26 07:57:10 [main] ERROR ActionDriver - Texts are not Matching:ravi not equals null null
+2026-06-26 07:57:10 [main] ERROR ActionDriver - Unable to compare Texts:Cannot invoke "String.equals(Object)" because "expectedText" is null
+2026-06-26 08:01:51 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:01:51 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:01:54 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:01:54 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:01:58 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:01:58 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:02:03 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:02:03 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:02:10 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:02:10 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:02:18 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:02:18 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:06 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:06 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:09 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:09 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:13 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:13 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:17 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:17 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:24 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:24 [main] FATAL BaseClass - This is a fatal message
+2026-06-26 08:03:33 [main] ERROR BaseClass - This is a error message
+2026-06-26 08:03:33 [main] FATAL BaseClass - This is a fatal message

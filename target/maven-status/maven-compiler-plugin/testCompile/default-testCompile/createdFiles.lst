@@ -1,6 +1,6 @@
+com\orangehrm\test\ApiTest.class
+com\orangehrm\test\DBVerificationTest.class
 com\orangehrm\test\HomePageTest.class
 com\orangehrm\test\DummyClass.class
-com\orangehrm\test\ApiTest.class
 com\orangehrm\test\LoginPageTest.class
-com\orangehrm\test\DBVerificationTest.class
 com\orangehrm\test\DummyClass2.class

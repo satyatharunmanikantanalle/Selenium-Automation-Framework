@@ -1,4 +1,4 @@
-<suite name="OrangeHRMSuite" parallel="classes" thread-count="5">
+<suite name="OrangeHRMSuite" parallel="false" thread-count="5">
 
     <parameter name="browser" value="chrome"/>
 
@@ -12,6 +12,8 @@
             <class name="com.orangehrm.test.DummyClass2"/>
             <class name="com.orangehrm.test.LoginPageTest"/>
             <class name="com.orangehrm.test.HomePageTest"/>
+            <class name="com.orangehrm.test.ApiTest"/>
+            <class name="com.orangehrm.test.DBVerificationTest"/>
         </classes>
     </test>
 

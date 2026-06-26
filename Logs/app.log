@@ -1592,3 +1592,1045 @@ Session ID: f89c8599e9c86d0d01c53303944bd5fe
 2026-06-24 19:18:42 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
 2026-06-24 19:18:42 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
 2026-06-24 19:18:43 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:57:29 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 06:57:36 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:57:36 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:57:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:57:38 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 33
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:57:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:57:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:57:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 06:57:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 06:57:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:57:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:57:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:58:22 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:58:22 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:58:22 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:58:23 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:58:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:58:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:58:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:58:28 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:58:29 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:58:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:58:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:58:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:58:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:58:57 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:59:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:59:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:59:03 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:59:03 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:59:03 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 06:59:06 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 06:59:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 06:59:31 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:59:31 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 06:59:31 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 06:59:37 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:59:37 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 06:59:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:07:45 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:07:47 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:07:47 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:07:47 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:07:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-26 07:07:50 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-26 07:07:51 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:07:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:07:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:07:52 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:07:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:07:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:07:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:08:21 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:08:21 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:08:21 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:08:22 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:08:25 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:08:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:08:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:08:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:08:27 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:08:30 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:08:55 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:08:55 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:08:55 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:08:56 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:08:59 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:09:00 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:09:00 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:09:00 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:09:01 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:09:04 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-26 07:09:30 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:09:30 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:09:30 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:09:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:09:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //span[text()='Admin']
+2026-06-26 07:09:35 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:22 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:34:23 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:23 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:23 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:23 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 33
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:26 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:34:27 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:34:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:34:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:34:28 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:34:28 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:34:28 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:29 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:34:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:34:49 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:49 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:34:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:34:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:34:54 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:34:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:34:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:34:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:34:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:35:13 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:35:13 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] TRACE BaseClass - This is a Trace message
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] DEBUG BaseClass - This is a debug message
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] WARN  BaseClass - This is a warm message
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 36
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:35:16 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:35:17 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:35:17 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:35:17 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] TRACE BaseClass - This is a Trace message
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] DEBUG BaseClass - This is a debug message
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] WARN  BaseClass - This is a warm message
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:35:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:35:37 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:35:41 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:45:52 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:46:01 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:47:25 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:47:26 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:47:29 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:47:29 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:47:29 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:47:29 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:47:29 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:47:29 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:47:29 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:47:30 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:47:33 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:47:33 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:47:33 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:47:33 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:47:33 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:47:33 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:47:33 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:47:34 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:47:37 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:47:37 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:47:37 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:47:37 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:47:37 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:47:37 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:47:37 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:47:37 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:47:37 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:47:38 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:47:38 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:47:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:47:39 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:47:39 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:47:40 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:47:42 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:47:42 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:47:42 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:47:42 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:47:42 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:47:42 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:47:42 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:47:43 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:47:43 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:47:43 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:47:43 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:47:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 07:47:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:47:45 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:47:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:47:47 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 07:47:47 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:47:48 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:47:50 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:47:50 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:47:50 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:47:50 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:47:50 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:47:50 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:47:50 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:47:51 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:47:51 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:47:51 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:47:52 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:47:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:47:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:47:53 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:47:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:47:55 [main] INFO  ActionDriver - Clicked : Element located using: By.xpath: //a[text()='Logout']
+2026-06-26 07:47:55 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:49:42 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:49:43 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:49:46 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:49:46 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:49:46 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:49:46 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:49:46 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:49:46 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:49:46 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:49:47 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:49:49 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:49:49 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:49:49 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:49:49 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:49:49 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:49:49 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:49:50 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:49:51 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:49:54 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:49:54 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:49:54 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:49:54 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:49:54 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:49:54 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:49:54 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:49:54 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:49:54 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:49:54 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:49:54 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:49:55 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:49:55 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:49:56 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:49:56 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:49:59 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:49:59 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:49:59 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:49:59 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:49:59 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:49:59 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:49:59 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:49:59 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:50:00 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:50:00 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:50:00 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:50:01 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 07:50:02 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:50:02 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:50:02 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:50:04 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 07:50:04 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:50:05 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:50:07 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:50:07 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:50:07 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:50:07 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:50:07 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:50:07 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:50:07 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:50:07 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:50:08 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:50:08 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:50:09 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:50:09 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:50:10 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:50:10 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:50:10 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:50:11 [main] INFO  ActionDriver - Clicked : Element located using: By.xpath: //a[text()='Logout']
+2026-06-26 07:50:12 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:50:15 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:50:17 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:50:17 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:50:17 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:50:17 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:50:17 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:50:17 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:50:17 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:50:17 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:50:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:50:18 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:50:19 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:50:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:50:22 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:50:22 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:50:22 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:50:23 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:50:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:50:25 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:50:25 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:50:25 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:50:25 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:50:25 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:50:26 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:50:29 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:50:29 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:50:29 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:50:29 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:50:29 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:50:29 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:50:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:50:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:50:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:50:29 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:50:30 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:50:31 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:50:33 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:50:34 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:50:34 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:50:34 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:50:34 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:50:35 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:50:35 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:50:35 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:50:35 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:50:36 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:50:36 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:50:39 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:50:39 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:50:39 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:50:39 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:50:39 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:50:39 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:50:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:50:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:50:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:50:39 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:50:41 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:50:41 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:50:43 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:50:44 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:50:44 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:50:44 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:50:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:50:46 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:50:46 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:50:46 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:50:46 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:50:46 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:53:29 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:54:27 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:54:28 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:54:31 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:54:31 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:54:31 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:54:31 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:54:31 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:54:31 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:54:31 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:54:32 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:54:35 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:54:35 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:54:35 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:54:35 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:54:35 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:54:35 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:54:35 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:54:36 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:54:39 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:54:39 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:54:39 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:54:39 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:54:39 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:54:39 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:54:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:54:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:54:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:54:40 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:54:40 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:54:41 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:54:41 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:54:41 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:54:42 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:54:44 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:54:44 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:54:44 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:54:44 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:54:44 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:54:44 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:54:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:54:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:54:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:54:45 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:54:46 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:54:47 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 07:54:47 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:54:47 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:54:47 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:54:49 [main] INFO  ActionDriver - Clicked : Element located using: By.xpath: //a[text()='Logout']
+2026-06-26 07:54:49 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:54:50 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:54:52 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:54:52 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:54:52 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:54:52 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:54:52 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:54:52 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:54:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:54:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:54:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:54:53 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:54:53 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:54:55 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:54:55 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:54:55 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:54:55 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:54:57 [main] INFO  ActionDriver - Clicked : Element located using: By.xpath: //a[text()='Logout']
+2026-06-26 07:54:57 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:55:00 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:55:02 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:55:02 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:55:02 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:55:02 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:55:02 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:55:02 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:55:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:55:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:55:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:55:03 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:55:04 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:55:05 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:55:07 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:55:07 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:55:08 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:55:08 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:55:08 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:55:09 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:55:09 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:55:09 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:55:10 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:55:10 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:55:11 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:55:13 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:55:13 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:55:13 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:55:13 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:55:13 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:55:13 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:55:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:55:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:55:14 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:55:14 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:55:15 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:55:15 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:55:18 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:55:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:55:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:55:18 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:55:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:55:20 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:55:20 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:55:20 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:55:20 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:55:21 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:55:21 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:55:24 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:55:24 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:55:24 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:55:24 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:55:24 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:55:24 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:55:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:55:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:55:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:55:24 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:55:24 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:55:26 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:55:28 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:55:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:55:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:55:29 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:55:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:55:30 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:55:30 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:55:30 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:55:31 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:55:31 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:01 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 07:56:02 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:05 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:05 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:05 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:05 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:05 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:05 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:05 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:06 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:09 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:09 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:09 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:09 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:09 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:09 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:09 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:10 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:13 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:13 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:13 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:13 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:13 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:13 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:56:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:56:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:56:13 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:56:13 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:56:14 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 07:56:14 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 07:56:15 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:16 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:18 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:18 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:18 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:18 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:18 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:18 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:56:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:56:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:56:19 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:56:19 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:56:20 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 07:56:21 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:56:21 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:56:21 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:56:23 [main] INFO  ActionDriver - Clicked : Element located using: By.xpath: //a[text()='Logout']
+2026-06-26 07:56:23 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:24 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:27 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:27 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:27 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:27 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:27 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:27 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:27 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:56:27 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:56:27 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:56:27 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:56:29 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:56:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 07:56:29 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 07:56:29 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 07:56:30 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 07:56:31 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 07:56:32 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:36 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:39 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:39 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:39 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:39 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:39 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:39 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:56:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:56:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:56:39 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:56:41 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:56:41 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:56:43 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:56:44 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:56:44 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:56:44 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:56:45 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:56:46 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:56:46 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:56:46 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:56:46 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:56:47 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:56:48 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:56:50 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:56:50 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:56:50 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:56:50 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:56:50 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:56:50 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:56:51 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:56:51 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:56:51 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:56:51 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:56:52 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:56:53 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:56:56 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:56:56 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:56:56 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:56:56 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:56:57 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:56:58 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:56:58 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:56:58 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:56:59 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:56:59 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 07:57:00 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 07:57:02 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 07:57:02 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 07:57:02 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 07:57:02 [main] WARN  BaseClass - This is a warm message
+2026-06-26 07:57:02 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 07:57:02 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 07:57:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 07:57:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 07:57:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 07:57:03 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 07:57:03 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 07:57:05 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 07:57:07 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 07:57:08 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 07:57:08 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 07:57:08 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 07:57:09 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 07:57:10 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 07:57:10 [main] INFO  DBConnection - Errr while exeucting query
+2026-06-26 07:57:10 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: ravi
+2026-06-26 07:57:10 [main] INFO  ActionDriver - Applied the border with color red to element: Element with text: kanth
+2026-06-26 07:57:10 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:01:47 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 08:01:48 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:01:51 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:01:51 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:01:51 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:01:51 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:01:51 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:01:51 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:01:51 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:01:52 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:01:54 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:01:54 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:01:54 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:01:54 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:01:54 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:01:54 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:01:55 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:01:56 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:01:58 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:01:58 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:01:58 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:01:58 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:01:58 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:01:58 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:01:58 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:01:58 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:01:59 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:01:59 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:01:59 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:02:00 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 08:02:00 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 08:02:00 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:02:01 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:02:03 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:02:03 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:02:03 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:02:03 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:02:03 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:02:03 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:02:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:02:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:02:03 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:02:04 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:02:04 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:02:05 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 08:02:05 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 08:02:05 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 08:02:05 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 08:02:07 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 08:02:07 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:02:07 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:02:10 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:02:10 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:02:10 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:02:10 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:02:10 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:02:10 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:02:10 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:02:10 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:02:10 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:02:10 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:02:11 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:02:12 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 08:02:12 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 08:02:12 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 08:02:12 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 08:02:13 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 08:02:13 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:02:16 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:02:18 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:02:18 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:02:18 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:02:18 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:02:18 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:02:18 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:02:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:02:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:02:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:02:19 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:02:20 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:02:20 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 08:02:22 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 08:02:22 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 08:02:22 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 08:02:23 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 08:02:23 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 08:02:24 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 08:02:24 [main] INFO  DBConnection - DB Connection Successful
+2026-06-26 08:02:24 [main] INFO  DBConnection - Executing query: SELECT emp_firstname, emp_middle_name, emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-06-26 08:02:24 [main] INFO  DBConnection - Query Executed Successfully
+2026-06-26 08:02:24 [main] INFO  DBConnection - Employee Data Fetched: {firstName=ravi, lastName=kanth, middleName=}
+2026-06-26 08:02:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 08:02:24 [main] INFO  ActionDriver - Texts are Matching:ravi equals ravi
+2026-06-26 08:02:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: kanth
+2026-06-26 08:02:24 [main] INFO  ActionDriver - Texts are Matching:kanth equals kanth
+2026-06-26 08:02:25 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:02 [main] INFO  BaseClass - config.properties file loaded
+2026-06-26 08:03:03 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:06 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:06 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:06 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:06 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:06 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:06 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:06 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:06 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:09 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:09 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:09 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:09 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:09 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:09 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:09 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:10 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:13 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:13 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:13 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:13 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:13 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:13 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:03:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:03:13 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:03:13 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:03:14 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:03:14 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-26 08:03:14 [main] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-26 08:03:14 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:15 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:17 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:17 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:17 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:17 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:17 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:17 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:03:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:03:18 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:03:18 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:03:19 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:03:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-26 08:03:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 08:03:19 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 08:03:19 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 08:03:21 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 08:03:21 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:22 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:24 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:24 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:24 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:24 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:24 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:24 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:03:24 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:03:25 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:03:25 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:03:26 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:03:26 [main] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-26 08:03:26 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-26 08:03:26 [main] INFO  ActionDriver - Clicked : Element with text: ravi kanth
+2026-06-26 08:03:26 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-26 08:03:27 [main] INFO  ActionDriver - Clicked : Element with text: Logout
+2026-06-26 08:03:28 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-26 08:03:30 [main] INFO  BaseClass - ChromeDriver Instance is created.
+2026-06-26 08:03:33 [main] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-26 08:03:33 [main] TRACE BaseClass - This is a Trace message
+2026-06-26 08:03:33 [main] DEBUG BaseClass - This is a debug message
+2026-06-26 08:03:33 [main] WARN  BaseClass - This is a warm message
+2026-06-26 08:03:33 [main] INFO  ActionDriver - WebDriver instance is created.
+2026-06-26 08:03:33 [main] INFO  BaseClass - ActionDriver initlialized for thread: 1
+2026-06-26 08:03:33 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-26 08:03:33 [main] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-26 08:03:33 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-26 08:03:33 [main] INFO  ActionDriver - Clicked : Element with text: Login
+2026-06-26 08:03:33 [main] INFO  ActionDriver - Page loaded successfully.
+2026-06-26 08:03:34 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-26 08:03:36 [main] INFO  ActionDriver - Clicked : Element with text: PIM
+2026-06-26 08:03:36 [main] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-26 08:03:37 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-26 08:03:37 [main] INFO  ActionDriver - Clicked : Element with text: Search
+2026-06-26 08:03:37 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 08:03:38 [main] INFO  DBConnection - Starting DB Connection...
+2026-06-26 08:03:38 [main] INFO  DBConnection - DB Connection Successful
+2026-06-26 08:03:38 [main] INFO  DBConnection - Executing query: SELECT emp_firstname, emp_middle_name, emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-06-26 08:03:38 [main] INFO  DBConnection - Query Executed Successfully
+2026-06-26 08:03:38 [main] INFO  DBConnection - Employee Data Fetched: {firstName=ravi, lastName=kanth, middleName=}
+2026-06-26 08:03:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-26 08:03:39 [main] INFO  ActionDriver - Texts are Matching:ravi equals ravi
+2026-06-26 08:03:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: kanth
+2026-06-26 08:03:39 [main] INFO  ActionDriver - Texts are Matching:kanth equals kanth
+2026-06-26 08:03:39 [main] INFO  BaseClass - WebDriver instance is closed.

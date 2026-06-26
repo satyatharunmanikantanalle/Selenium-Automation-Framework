@@ -14,7 +14,7 @@ public class LoginPage {
 	
 	private By userNameField = By.name("username");
 	private By passworField = By.cssSelector("input[type='password']");
-	private By loginButton = By.xpath("//button[text()=' Login ']");
+	private By loginButton = By.xpath("//button[@type='submit']");
 	private By errorMessage = By.xpath("//p[text()='Invalid credentials']");
 	
 	//Initialize the ActionDriver object by passing WebDriver instance
@@ -31,6 +31,7 @@ public class LoginPage {
 		actionDriver.enterText(userNameField, userName);
 		actionDriver.enterText(passworField, password);
 		actionDriver.click(loginButton);
+		actionDriver.waitForPageLoad(20);
 	}
 	
 	//Method to check if error message is displayed
