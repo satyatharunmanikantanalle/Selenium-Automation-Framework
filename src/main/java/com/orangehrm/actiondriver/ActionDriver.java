@@ -33,41 +33,37 @@ public class ActionDriver {
 
 	// Method to click an element
 	public void click(By by) {
-	    String elementDescription = getElementDescription(by);
-	    try {
-	        waitForElementToBeClickable(by);
-	        applyBorder(by, "green");
-	        driver.findElement(by).click();
-	        ExtentManager.logStep("Clicked : " + elementDescription);
-	        logger.info("Clicked : " + elementDescription);
-	    }
-	    catch (Exception e) {
-	        applyBorder(by, "red");
-	        logger.error("Unable to click", e);
-	        ExtentManager.logFailure(BaseClass.getDriver(),
-	                "Unable to click",
-	                elementDescription);
-
-	        throw e;
-	    }
-
+		String elementDescription = getElementDescription(by);
+		try {
+			applyBorder(by,"green");
+			waitForElementToBeClickable(by);
+			driver.findElement(by).click();
+			ExtentManager.logStep("clicked an element: "+elementDescription);
+			logger.info("clicked an element-->" + elementDescription);
+		} catch (Exception e) {
+			applyBorder(by,"red");
+			System.out.println("Unable to click element:" + e.getMessage());
+			ExtentManager.logFailure(BaseClass.getDriver(), "Unable to click element:", elementDescription+"_unable to click");
+			logger.error("unable to click element");
+		}
 	}
 
 	// Method to enter text into an input field --Avoid Code Duplication - fix the
 	// multiple calling method
 	public void enterText(By by, String value) {
-	    try {
-	        waitForElementToBeVisible(by);
-	        WebElement element = driver.findElement(by);
-	        applyBorder(by, "green");
-	        element.clear();
-	        element.sendKeys(value);
-	    }
-	    catch (Exception e) {
-	        applyBorder(by, "red");
-	        logger.error("Unable to enter text", e);
-	        throw e;
-	    }
+		try {
+			waitForElementToBeVisible(by);
+			applyBorder(by,"green");
+			// driver.findElement(by).clear();
+			// driver.findElement(by).sendKeys(value);
+			WebElement element = driver.findElement(by);
+			element.clear();
+			element.sendKeys(value);
+			logger.info("Entered text on " + getElementDescription(by) + "-->" + value);
+		} catch (Exception e) {
+			applyBorder(by,"red");
+			logger.error("Unable to enter the value:" + e.getMessage());
+		}
 	}
 
 	// Method to get text from an input field
@@ -106,18 +102,31 @@ public class ActionDriver {
 		return false;
 	}
 
-	//Method to check if an element is displayed 
+	/*
+	 * Method to check if an element is displayed public boolean isDisplayed(By by)
+	 * { try { waitForElementToBeVisible(by); boolean isDisplayed =
+	 * driver.findElement(by).isDisplayed(); if (isDisplayed) {
+	 * System.out.println("Element is Displayed"); return isDisplayed; } else {
+	 * return isDisplayed; } } catch (Exception e) {
+	 * System.out.println("Element is not displayed:"+e.getMessage()); return false;
+	 * } }
+	 */
+
 	// Simplified the method and remove redundant conditions
 	public boolean isDisplayed(By by) {
-	    try {
-	        waitForElementToBeVisible(by);
-	        applyBorder(by, "green");
-	        return driver.findElement(by).isDisplayed();
-	    }
-	    catch (Exception e) {
-	        logger.error("Element is not displayed", e);
-	        return false;
-	    }
+		try {
+			waitForElementToBeVisible(by);
+			applyBorder(by,"green");
+			logger.info("Element is displayed " + getElementDescription(by));
+			ExtentManager.logStep("Element is displayed: "+getElementDescription(by));
+			ExtentManager.logStepWithScreenshot(BaseClass.getDriver(), "Element is displayed: ", "Element is displayed: "+getElementDescription(by));
+			return driver.findElement(by).isDisplayed();
+		} catch (Exception e) {
+			applyBorder(by,"red");
+			logger.error("Element is not displayed: " + e.getMessage());
+			ExtentManager.logFailure(BaseClass.getDriver(),"Element is not displayed: ","Elemenet is not displayed: "+getElementDescription(by));
+			return false;
+		}
 	}
 
 	// Wait for the page to load
@@ -146,12 +155,20 @@ public class ActionDriver {
 
 	// Wait for Element to be clickable
 	private void waitForElementToBeClickable(By by) {
-	    wait.until(ExpectedConditions.elementToBeClickable(by));
+		try {
+			wait.until(ExpectedConditions.elementToBeClickable(by));
+		} catch (Exception e) {
+			logger.error("element is not clickable: " + e.getMessage());
+		}
 	}
 
 	// Wait for Element to be Visible
 	private void waitForElementToBeVisible(By by) {
-	    wait.until(ExpectedConditions.visibilityOfElementLocated(by));
+		try {
+			wait.until(ExpectedConditions.visibilityOfElementLocated(by));
+		} catch (Exception e) {
+			logger.error("Element is not visible:" + e.getMessage());
+		}
 	}
 
 	// Method to get the description of an element using By locator

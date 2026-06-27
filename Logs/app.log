@@ -2634,3 +2634,235 @@ Session ID: f89c8599e9c86d0d01c53303944bd5fe
 2026-06-26 08:03:39 [main] INFO  ActionDriver - Applied the border with color green to element: Element with text: kanth
 2026-06-26 08:03:39 [main] INFO  ActionDriver - Texts are Matching:kanth equals kanth
 2026-06-26 08:03:39 [main] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 15:29:29 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 15:29:39 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:29:40 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:30:37 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:30:39 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:30:42 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:40:39 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 15:40:41 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:40:43 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:40:44 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:40:46 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 15:40:49 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver Instance Created.
+2026-06-27 17:38:59 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 17:39:02 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 17:39:03 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 17:39:03 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 17:39:05 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 17:39:07 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:01:50 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 18:01:52 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:01:54 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:07 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:07 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:07 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 31
+2026-06-27 18:02:07 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:07 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:07 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:07 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:07 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:07 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 30
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:02:07 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:02:07 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:02:07 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:02:08 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:02:10 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:10 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:10 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:10 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:10 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:10 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 30
+2026-06-27 18:02:10 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:02:12 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:02:12 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:02:13 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-27 18:02:17 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: PIM
+2026-06-27 18:02:18 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-27 18:02:18 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with placeholder: Type for hints...-->ravi
+2026-06-27 18:02:18 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-27 18:02:18 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Search
+2026-06-27 18:02:18 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-27 18:02:19 [TestNG-tests-3] INFO  DBConnection - Starting DB Connection...
+2026-06-27 18:02:19 [TestNG-tests-3] INFO  DBConnection - DB Connection Successful
+2026-06-27 18:02:19 [TestNG-tests-3] INFO  DBConnection - Executing query: SELECT emp_firstname, emp_middle_name, emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-06-27 18:02:19 [TestNG-tests-3] INFO  DBConnection - Query Executed Successfully
+2026-06-27 18:02:19 [TestNG-tests-3] INFO  DBConnection - Employee Data Fetched: {firstName=ravi, lastName=kanth, middleName=}
+2026-06-27 18:02:20 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-27 18:02:20 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:ravi equals ravi
+2026-06-27 18:02:20 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: kanth
+2026-06-27 18:02:20 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:kanth equals kanth
+2026-06-27 18:02:20 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:02:22 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:02:24 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:24 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:24 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:24 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:24 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:24 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 31
+2026-06-27 18:02:24 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:02:24 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-27 18:02:25 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:02:25 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-27 18:02:25 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:02:26 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:02:26 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:02:26 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-27 18:02:26 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-27 18:02:26 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:02:28 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:02:30 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:30 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:30 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:30 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:30 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:30 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 31
+2026-06-27 18:02:30 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:02:31 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:02:31 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:02:31 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:02:31 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:02:32 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:02:32 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:02:32 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-27 18:02:33 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element with text: Admin
+2026-06-27 18:02:33 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-27 18:02:33 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-27 18:02:33 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:02:35 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:02:35 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:02:37 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:02:39 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:02:39 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:02:39 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 31
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:02:39 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:02:40 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:02:40 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:02:41 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:02:41 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:02:41 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:02:41 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:02:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-27 18:02:42 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-27 18:02:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:02:43 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:02:44 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:03:31 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 18:03:33 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:03:35 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:03:36 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:03:36 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:03:36 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:03:36 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:03:36 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:03:36 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-27 18:03:36 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:03:36 [TestNG-tests-2] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:03:37 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:03:37 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:03:37 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:03:37 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:03:37 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:03:37 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-27 18:03:38 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:03:38 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:03:38 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:03:38 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:03:38 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:03:39 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:03:39 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:03:39 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:03:39 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:03:39 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:03:39 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 34
+2026-06-27 18:03:39 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:03:39 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:03:39 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:03:40 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: PIM
+2026-06-27 18:03:41 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: PIM
+2026-06-27 18:03:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with placeholder: Type for hints...
+2026-06-27 18:03:42 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with placeholder: Type for hints...-->ravi
+2026-06-27 18:03:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Search
+2026-06-27 18:03:42 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Search
+2026-06-27 18:03:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  DBConnection - Starting DB Connection...
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  DBConnection - DB Connection Successful
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  DBConnection - Executing query: SELECT emp_firstname, emp_middle_name, emp_lastname FROM hs_hr_employee WHERE employee_id =1
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  DBConnection - Query Executed Successfully
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  DBConnection - Employee Data Fetched: {firstName=ravi, lastName=kanth, middleName=}
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi
+2026-06-27 18:03:43 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:ravi equals ravi
+2026-06-27 18:03:44 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: kanth
+2026-06-27 18:03:44 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:kanth equals kanth
+2026-06-27 18:03:44 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:03:45 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:03:48 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:03:48 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:03:48 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:03:48 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-27 18:03:49 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:03:49 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:03:49 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:03:50 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-27 18:03:50 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-27 18:03:50 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:03:51 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:03:54 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:03:54 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:03:54 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:03:54 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:03:55 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:03:56 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:03:56 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:03:56 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-27 18:03:56 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element with text: Admin
+2026-06-27 18:03:56 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-27 18:03:57 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-27 18:03:57 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:03:58 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:03:59 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:04:00 [TestNG-tests-3] INFO  BaseClass - RemoteWebDriver instance created for Grid in headless mode
+2026-06-27 18:04:02 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:04:02 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:04:02 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:04:02 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:04:02 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:04:02 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 35
+2026-06-27 18:04:03 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:04:03 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->ravi_kanth
+2026-06-27 18:04:03 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:04:03 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->Ravi@@123
+2026-06-27 18:04:03 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:04:04 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:04:04 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:04:04 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:04:04 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:04:05 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: ravi kanth
+2026-06-27 18:04:05 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: ravi kanth
+2026-06-27 18:04:05 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:04:06 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:04:07 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
