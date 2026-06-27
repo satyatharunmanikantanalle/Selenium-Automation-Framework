@@ -74,13 +74,6 @@ public class BaseClass {
 		logger.fatal("This is a fatal message");
 		logger.warn("This is a warm message");
 
-		/*
-		 * // Initialize the actionDriver only once if (actionDriver == null) {
-		 * actionDriver = new ActionDriver(driver);
-		 * logger.info("ActionDriver instance is created. "+Thread.currentThread().getId
-		 * ()); }
-		 */
-
 		// Initialize ActionDriver for the current Thread
 		actionDriver.set(new ActionDriver(getDriver()));
 		logger.info("ActionDriver initlialized for thread: " + Thread.currentThread().getId());
