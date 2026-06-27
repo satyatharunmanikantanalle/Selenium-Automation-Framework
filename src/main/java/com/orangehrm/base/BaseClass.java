@@ -32,7 +32,7 @@ import com.orangehrm.utilities.LoggerManager;
 public class BaseClass {
 
 	protected static Properties prop;
-	// protected static WebDriver driver;
+	// protected static WebDriver driver;  code commented
 	// private static ActionDriver actionDriver;
 
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
