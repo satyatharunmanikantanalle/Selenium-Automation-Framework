@@ -1084,3 +1084,13 @@ Session ID: ddf7332d409b73c4c034f323b00fa79f
 2026-06-27 18:03:54 [TestNG-tests-3] FATAL BaseClass - This is a fatal message
 2026-06-27 18:04:02 [TestNG-tests-3] ERROR BaseClass - This is a error message
 2026-06-27 18:04:02 [TestNG-tests-3] FATAL BaseClass - This is a fatal message
+2026-06-27 18:21:50 [TestNG-tests-2] ERROR BaseClass - This is a error message
+2026-06-27 18:21:50 [TestNG-tests-2] FATAL BaseClass - This is a fatal message
+2026-06-27 18:22:08 [TestNG-tests-3] ERROR BaseClass - This is a error message
+2026-06-27 18:22:08 [TestNG-tests-3] FATAL BaseClass - This is a fatal message
+2026-06-27 18:22:14 [TestNG-tests-2] ERROR BaseClass - This is a error message
+2026-06-27 18:22:14 [TestNG-tests-2] FATAL BaseClass - This is a fatal message
+2026-06-27 18:22:42 [TestNG-tests-3] ERROR BaseClass - This is a error message
+2026-06-27 18:22:42 [TestNG-tests-3] FATAL BaseClass - This is a fatal message
+2026-06-27 18:23:39 [TestNG-tests-3] ERROR BaseClass - This is a error message
+2026-06-27 18:23:39 [TestNG-tests-3] FATAL BaseClass - This is a fatal message

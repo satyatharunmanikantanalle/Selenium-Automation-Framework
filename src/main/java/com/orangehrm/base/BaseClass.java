@@ -195,7 +195,7 @@ public class BaseClass {
 		if (seleniumGrid) {
 			getDriver().get(prop.getProperty("url_grid"));
 		} else {
-			getDriver().get(prop.getProperty("url_local"));
+			getDriver().get(prop.getProperty("url_base"));
 		}
 	}
 

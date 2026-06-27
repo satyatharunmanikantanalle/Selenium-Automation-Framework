@@ -2866,3 +2866,79 @@ Session ID: f89c8599e9c86d0d01c53303944bd5fe
 2026-06-27 18:04:05 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
 2026-06-27 18:04:06 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
 2026-06-27 18:04:07 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:21:31 [main] INFO  BaseClass - config.properties file loaded
+2026-06-27 18:21:33 [TestNG-tests-2] INFO  BaseClass - EdgeDriver Instance is created.
+2026-06-27 18:21:36 [TestNG-tests-3] INFO  BaseClass - FirefoxDriver Instance is created.
+2026-06-27 18:21:50 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:21:50 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:21:50 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:21:50 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:21:50 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:21:50 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 28
+2026-06-27 18:21:50 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:21:50 [TestNG-tests-2] INFO  BaseClass - EdgeDriver Instance is created.
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:22:08 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:22:08 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:22:08 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 29
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->admin1
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-27 18:22:08 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:22:12 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:22:12 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:22:12 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Invalid credentials
+2026-06-27 18:22:12 [TestNG-tests-3] INFO  ActionDriver - Texts are Matching:Invalid credentials equals Invalid credentials
+2026-06-27 18:22:13 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:22:14 [TestNG-tests-2] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:22:14 [TestNG-tests-2] TRACE BaseClass - This is a Trace message
+2026-06-27 18:22:14 [TestNG-tests-2] DEBUG BaseClass - This is a debug message
+2026-06-27 18:22:14 [TestNG-tests-2] WARN  BaseClass - This is a warm message
+2026-06-27 18:22:14 [TestNG-tests-2] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:22:14 [TestNG-tests-2] INFO  BaseClass - ActionDriver initlialized for thread: 28
+2026-06-27 18:22:14 [TestNG-tests-2] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:22:15 [TestNG-tests-3] INFO  BaseClass - FirefoxDriver Instance is created.
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:22:42 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:22:42 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:22:42 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 29
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-27 18:22:42 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:22:47 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:22:47 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:22:49 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Admin
+2026-06-27 18:22:49 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element with text: Admin
+2026-06-27 18:22:49 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Triggered Name user
+2026-06-27 18:22:49 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Triggered Name user
+2026-06-27 18:22:49 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:22:52 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:22:53 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.
+2026-06-27 18:22:55 [TestNG-tests-3] INFO  BaseClass - FirefoxDriver Instance is created.
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  BaseClass - WebDriver Initialized and Browser Maximized
+2026-06-27 18:23:39 [TestNG-tests-3] TRACE BaseClass - This is a Trace message
+2026-06-27 18:23:39 [TestNG-tests-3] DEBUG BaseClass - This is a debug message
+2026-06-27 18:23:39 [TestNG-tests-3] WARN  BaseClass - This is a warm message
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - WebDriver instance is created.
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  BaseClass - ActionDriver initlialized for thread: 29
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: username
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: username-->Admin
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with name: password
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - Entered text on Element with name: password-->admin123
+2026-06-27 18:23:39 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Login
+2026-06-27 18:23:43 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Login
+2026-06-27 18:23:43 [TestNG-tests-3] INFO  ActionDriver - Page loaded successfully.
+2026-06-27 18:23:44 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:23:44 [TestNG-tests-3] INFO  ActionDriver - Element is displayed Element located using: By.xpath: //div[@class='oxd-brand-banner']//img
+2026-06-27 18:23:44 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Triggered Name user
+2026-06-27 18:23:44 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Triggered Name user
+2026-06-27 18:23:44 [TestNG-tests-3] INFO  ActionDriver - Applied the border with color green to element: Element with text: Logout
+2026-06-27 18:23:47 [TestNG-tests-3] INFO  ActionDriver - clicked an element-->Element with text: Logout
+2026-06-27 18:23:47 [TestNG-tests-3] INFO  BaseClass - WebDriver instance is closed.

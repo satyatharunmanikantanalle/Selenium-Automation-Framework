@@ -20,7 +20,6 @@
 	<test name="OrangeHRMTest_firefox">
 		<parameter name="browser" value="firefox" />
 		<classes>
-			<class name="com.orangehrm.test.DBVerificationTest" />
 			<class name="com.orangehrm.test.LoginPageTest" />
 			<class name="com.orangehrm.test.HomePageTest" />
 		</classes>
